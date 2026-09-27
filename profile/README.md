@@ -23,4 +23,4 @@ results with hard numbers every month.
 
 | Repository | |
 |---|---|
-| [agentfaro-js](https://github.com/agentfaro/agentfaro-js) | JavaScript and TypeScript SDK for sending leads into AgentFaro (preview) |
+| [agentfaro-js](https://github.com/AgentFaro/agentfaro-js) | JavaScript and TypeScript SDK for sending leads into AgentFaro (preview), on npm as [`@agentfaro/sdk`](https://www.npmjs.com/package/@agentfaro/sdk) |
